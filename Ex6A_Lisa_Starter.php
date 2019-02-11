@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Lisa Simpson</title>
+  <title>Lisa Marie Simpson</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="styles.css" rel="stylesheet" type="text/css"/>
@@ -28,9 +28,9 @@ img {
     </div>
     <div>
       <ul>
-        <li><a href="#">WHO</a></li>
-        <li><a href="#">INTRO</a></li>
-        <li><a href="#">WHERE</a></li>
+        <li><a href="#">WHO Am I</a></li>
+        <li><a href="#">INTRO To Me</a></li>
+        <li><a href="#">WHERE Am I</a></li>
       </ul>
     </div>
   </div>
@@ -66,7 +66,7 @@ img {
   </div>
 </div>
 <footer>
-  <p>&copy; 2017 Created for Get Into Tech for Sky <a href="http://www.sky.com">www.sky.com</a></p> 
+  <p>&copy; 2019 Created for Get Into Tech for Sky <a href="http://www.sky.com">www.sky.com</a></p> 
 </footer>
 </body>
 </html>
