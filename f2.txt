@@ -1,2 +1,6 @@
 Line 1 of f2.txt is here
-\nLine 2 of f2.txt is here
+
+Line 2 of f2.txt is here
+
+Thursday
+Friday
